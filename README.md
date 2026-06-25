@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Descripción
+## 📋 Descripción
 
 **GymLab** es un sistema de gestión de gimnasio desarrollado en Python como trabajo práctico de laboratorio para la materia **Algoritmos y Estructuras de Datos** de la carrera **ISI (Ingeniería en Sistemas de Información)** en la **Universidad Tecnológica Nacional (UTN)**.
 
@@ -13,13 +13,13 @@ El proyecto simula el funcionamiento de un sistema de gestión real, permitiendo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Objetivo del Laboratorio
+## 🎯 Objetivo del Laboratorio
 
 Aplicar de forma progresiva los conceptos fundamentales de programación en Python, partiendo de scripts procedurales simples hasta llegar a un sistema estructurado con **Programación Orientada a Objetos (POO)**, validación de datos y modularización del código.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 ```
 PYTHONLAB1/
@@ -33,7 +33,7 @@ PYTHONLAB1/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Evolución del Desarrollo
+## 🔄 Evolución del Desarrollo
 
 El proyecto documenta el proceso de aprendizaje iterativo a través de 5 versiones sucesivas:
 
