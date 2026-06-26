@@ -168,7 +168,7 @@ Seleccione una opción (1-5):
 ## Autores
 
 | Frettis Irazusta Andres  | 31048
-| Mendez Thiago | 
+| Mendez Thiago | 31646
 | Noguera Juan Sebastian | 31658
 | Aguirre Gonzalez Bautista | 30684
 
