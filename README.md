@@ -169,7 +169,7 @@ Seleccione una opción (1-5):
 
 | Frettis Irazusta Andres  | 31048
 | Mendez Thiago | 
-| Noguera Juan Sebastian | 
+| Noguera Juan Sebastian | 31658
 | Aguirre Gonzalez Bautista | 30684
 
 > **Materia:** Algoritmos y Estructuras de Datos  
